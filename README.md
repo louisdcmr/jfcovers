@@ -1,12 +1,10 @@
-# Jellyfin Cover Maker
-
-Easily create covers for your Jellyfin Libraries. This is a more easily usable alternative to [eebette's jellyfin tools](https://github.com/eebette/jellyfin-tools).
+# JFCovers - DECRAEMER'Soft+
 
 ![Website preview](./examples/home.png)
 
 ## How to use
 
-1. Go to https://jfcovers.jan.run/
+1. Go to jfcovers.decraemer.org
 2. Enter a title
 3. Upload an image
 4. Download the cover
