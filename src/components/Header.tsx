@@ -7,7 +7,7 @@ const Header = () => (
                 alt={"JfCovers - DECRAEMER'Soft+"}
                 className="h-9"
             />
-            Jellyfin Cover Maker
+            JFCovers - DECRAEMER'Soft+
         </h1>
     </header>
 );
