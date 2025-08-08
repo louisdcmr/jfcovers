@@ -34,7 +34,7 @@ jobs:
         run: pnpm tsc -b
 
       - name: Build (fix du base pour GitHub Pages)
-        run: pnpm vite build --base="/${{ github.event.repository.name }}/"
+        run: pnpm vite build --base="/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
