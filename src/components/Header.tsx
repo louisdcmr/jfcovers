@@ -1,4 +1,3 @@
-import GitHub from "./GitHub";
 
 const Header = () => (
     <header className="flex items-center justify-between w-full">
